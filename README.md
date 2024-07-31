@@ -1,2 +1,4 @@
-# WorldWay-Express-Dijkstra-Algorithm
-The WorldWay Express project showcases the implementation of Dijkstra's Algorithm to find the shortest path in a graph. This project simulates a transportation network where the algorithm determines the most efficient route between two points.
+Dijkstra-Travel-Planner
+=======================
+
+A travel planner that calculates the optimal travel route by plane or bus based on Dijkstra's algorithm
